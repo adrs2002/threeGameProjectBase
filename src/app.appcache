@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# 2017-10-01:v0.8.1
+# これもいつまで使えることやら
+
+CACHE:
+index.html
+# css/main.css
+# img/app/icon.png
+# img/app/splash-landscape.png
+# img/app/splash.png
+# img/resource/
+
+../lib/dat.gui.min.js
+../lib/Detector.js
+../lib/hammer.min.js
+../lib/three.min.js
+
+NETWORK:
+*
