@@ -11,6 +11,7 @@
  /*********
 adding
 ***********/
+html, css, div, canvas{touch-action:none;}
 .modalWapper,.viewdiv{position:absolute;left:0;top:0;width:100vw;height:100vh}
 .col_b{color:#000}
 .col_w{color:#fff}
